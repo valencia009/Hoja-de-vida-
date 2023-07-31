@@ -1,0 +1,124 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: #FDECEF;
+}
+.Nombre{
+    width: 100%;
+    height: 200px;
+    background: #1D84B5;
+    text-align: center;
+}
+.Nombre .Imagen{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    width: 180px;
+    height: 180px;
+    border-radius: 2%;
+    transform: skewY(5deg);
+    overflow: hidden;
+}
+.Nombre h1{
+    text-align:center;
+    font-weight: 30px;
+    font-size: normal;
+    bottom: 30px;
+}
+.Nombre .Edad{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    font-size: 35px;
+    font-weight: normal;
+    text-align: center;
+}
+.Acercademi{
+    width: 98%;
+    height: 120px;
+    background: #1D84B5;
+    margin: 6% auto;
+    border-radius: 20px;
+}
+.Acercademi h2{
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+.Acercademi.acercademi{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+.Contacto{
+    width: 98%;
+    height: 160px;
+    background: #1D84B5;
+    top: 20px;
+    border-radius: 20px;
+    margin: 6% auto;
+}
+.Contacto h3{
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+.Contacto h3 .Celular.correo{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+.Educacion{
+    width: 98%;
+    height: 140px;
+    background: #1D84B5;
+    top: 20px;
+    border-radius: 20px;
+    margin: 6% auto;
+}
+.Educacion h4{
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+.Educacion h4 .educacion{
+    width: 100%;
+    height: 50%;
+}
+.Habilidades{
+    width: 98%;
+    height: 250px;
+    background: #1D84B5;
+    top: 20px;
+    border-radius: 20px;
+    margin: 6% auto;
+}
+.Habilidades h5{
+    font-weight: normal;
+    font-size: 30px;
+    text-align: center;
+}
+.Habilidades h5 .habilidades{
+    width: 100%;
+    height: 50%;
+    font-size: 30px;
+}
+.Idiomas{
+    width: 98%;
+    height: 145px;
+    background: #1D84B5;
+    top: 20px;
+    border-radius: 20px;
+    margin: 6% auto;
+}
+.Idiomas h6{
+    font-weight: normal;
+    font-size: 30px;
+    text-align: center;
+}
